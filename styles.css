@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #6B8E23, #9ACD32);
+    background: linear-gradient(to right, #0a92f7, #0a92f7);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,7 +45,7 @@ body {
     z-index: 100;
 }
 .overlay {
-    background: linear-gradient(to right, #6B8E23, #9ACD32);
+    background: linear-gradient(to right, #0a92f7, #0a92f7);
     color: white;
     position: absolute;
     left: -100%;
@@ -73,7 +73,7 @@ body {
     transform: translateX(0);
 }
 button {
-    background-color: #6B8E23;
+    background-color: #0a92f7;
     border: none;
     padding: 10px 15px;
     margin-top: 20px;
@@ -83,5 +83,5 @@ button {
     transition: all 0.3s ease;
 }
 button:hover {
-    background-color: #556B2F;
+    background-color: #005bb5;
 }
